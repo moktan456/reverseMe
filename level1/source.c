@@ -4,7 +4,7 @@
 void main(void)
 {
     char    input[100];
-    char    *password = "__stack_check";
+    char    *password = "f!ndme";
 
     printf("Please enter key: ");
     scanf("%99s", input);
