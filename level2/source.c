@@ -49,7 +49,7 @@ int main() {
     
     
     // Compare with expected password
-    if (strcmp(transformed, "RE") == 0) {
+    if (strcmp(transformed, "delabere") == 0) {
         printf("Good job!\n");
         return 0;
     } else {
